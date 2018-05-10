@@ -8,7 +8,7 @@ Basic React App showcasing how Redux works and connects with React.JS
 
 ## Live Demo
 
-http://redux-react-counter-app.surge.sh/
+https://redux-react-counter-app.surge.sh/
 
 
 ## Getting Started
