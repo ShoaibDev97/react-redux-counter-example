@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 ```
-git clone  https://github.com/peckpeck20/car-stock-front-end.git
+git clone  https://github.com/peckpeck20/react-redux-counter-example.git
 ```
 
 ```
